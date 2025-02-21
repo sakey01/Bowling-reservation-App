@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Reservation App</string>
+    <string name="description">Below are some of the best bowling spots in London.
+        Find a location most convenient for you and book the day you want to play!</string>
+    <string name="seperator">\n----------------------------------\n</string>"
+
+    <string-array name="lanes">
+        <item>Lane 19</item>
+        <item>Lane 4</item>
+        <item>Lane 7</item>
+        <item>Lane 12</item>
+        <item>Lane 2</item>
+    </string-array>
+
+    <string-array name="locations">
+        <item>Westfield Stratford City</item>
+        <item>London Victoria</item>
+        <item>95 Brick Ln</item>
+        <item>Peninsula Square</item>
+        <item>Travis Hill</item>
+    </string-array>
+
+    <string-array name="openings">
+        <item>Open: 24/7</item>
+        <item>Open: 9am-9pm</item>
+        <item>Open: 9am-9pm</item>
+        <item>Open: 12pm-2am</item>
+        <item>Open: 24/7</item>
+    </string-array>
+
+</resources>
